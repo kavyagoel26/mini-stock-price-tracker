@@ -50,6 +50,21 @@ cron.schedule('* * * * *', () => {
   fetchAndSaveStock('AAPL', 'Apple Inc.');
   fetchAndSaveStock('GOOGL', 'Alphabet Inc.');
   fetchAndSaveStock('MSFT', 'Microsoft Corporation');
+  fetchAndSaveStock('AMZN', 'Amazon.com, Inc.');
+  fetchAndSaveStock('TSLA', 'Tesla, Inc');
+  fetchAndSaveStock('FB', 'Meta Platforms, Inc. (formerly Facebook)');
+  fetchAndSaveStock('NFLX', 'Netflix, Inc.');
+  fetchAndSaveStock('NVDA', 'NVIDIA Corporation');
+  fetchAndSaveStock('DIS', 'The Walt Disney Company');
+  fetchAndSaveStock('INTC', 'Intel Corporation');
+  fetchAndSaveStock('AMD', ' Advanced Micro Devices, Inc.');
+  fetchAndSaveStock('IBM', 'International Business Machines Corporation');
+  fetchAndSaveStock('BA',   'Boeing Company');
+  fetchAndSaveStock('WMT', 'Walmart Inc.');
+  fetchAndSaveStock('CVX', 'Chevron Corporation');
+  fetchAndSaveStock('JPM', 'JPMorgan Chase & Co.');
+  fetchAndSaveStock('ORCL', 'Oracle Corporation');
+
 });
 
 
