@@ -23,5 +23,5 @@ The Mini Stock Price Tracker is a web application that allows users to track sto
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mini-stock-price-tracker.git
+   git clone https://github.com/kavyagoel26/mini-stock-price-tracker.git
    cd mini-stock-price-tracker/frontend
