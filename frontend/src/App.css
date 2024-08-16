@@ -1,0 +1,57 @@
+.stock{
+  display: flex;
+  justify-content:center;
+}
+.body{
+  background: linear-gradient(180deg , #fff2e1, #e1ffea22  60%);
+ 
+
+}
+.body h1{
+  display:flex;
+  justify-content:center;
+  margin :0;
+  padding-top: 50px;
+}
+
+.body h2{
+  display:flex;
+  justify-content:center;
+
+}
+.body hr{
+  width:300px;
+  height: 3px;
+  background-color:black;
+}
+
+.dropdown{
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+ 
+  
+}
+.dropdown-update{
+  width: 200px;
+  height: 40px;
+  border-radius: 50px;
+  padding-left: 30px;
+  background-color: burlywood;
+  border: 0;
+  
+}
+.dropdown-text{
+  background-color:aliceblue;
+  
+}
+
+.LineGraph{
+  display:flex;
+  justify-content: center;
+  padding-top: 30px;
+  padding-left: 400px;
+  width:400px;
+  height: 10px;
+  
+}
